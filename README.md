@@ -20,6 +20,6 @@ The excecute "run.py" to run the simulation of ML AGV dispatching.
 ## Reward Function
 ![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Reward.PNG)
 ## Illustration
-![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Ilustration.gif)
+![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Illustration.gif)
 ## Published Research
 https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/A%20Support%20Vector%20Machine%20Approach%20for%20AGV%20Dispatching.pdf
