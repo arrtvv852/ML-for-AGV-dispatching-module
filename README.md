@@ -13,6 +13,7 @@ Edit run.py and change the string variable "Task" for differet purpose (see the 
 The excecute "run.py" to run the simulation of ML AGV dispatching.
 
 ## AGV dispatch MDP problem
+![image](picture or gif url)
 
 ## State Setting
 
