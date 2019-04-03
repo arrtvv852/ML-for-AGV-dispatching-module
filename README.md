@@ -19,8 +19,7 @@ The excecute "run.py" to run the simulation of ML AGV dispatching.
 ![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/State.PNG)
 ## Reward Function
 ![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Reward.PNG)
-## Research Abstract
-The path planning problem and the dispatching problem about AGVs system will be discussed in the research. In AGVs path planning problem, a path planning method “A Star with Future Congestion” is proposed by considering the congestion cost of the nodes to be planned. This research also proposed a dead-lock resolution algorithm to deal with the conflict and dead-lock problem in the operation of multi AGVs system.
-In the AGVs dispatching issue, an AGV dynamic dispatching in Flexible Manufacturing System (FMS) by machine learning technique is presented in this paper. The objective is to minimize mean tardiness of orders in FMS. The machine learning-based AGV dispatching approach - support vector machine (SVM) AGV dispatcher is proposed. The idea of the dispatcher is to make dispatching decision base on the system attributes. The simulation runs will be carrying out for generating the training data for SVM. The system attributes that might affect the performance of machine learning dispatcher will also be discussed.
-Finally, another machine learning-based approach of AGV dispatching is proposed. The Deep Q Network (DQN) dispatcher, which is able to dynamically adjust the dispatching policy depend on the reward function, will be discussed. The definition of states, actions, and rewards for AGV dispatching problem are main issues for this paper.
-In the AGVs dispatching experientment, SVM dispatcher has better effiency when the manufacturing situation is closed to the simulation model for training datas. The experiement result also shows that DQN dispatcher has better adaptivity to environment when the system status changes dramatically from time to time.
+## Illustration
+![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Illustration.PNG)
+## Published Research
+https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/A%20Support%20Vector%20Machine%20Approach%20for%20AGV%20Dispatching.pdf
