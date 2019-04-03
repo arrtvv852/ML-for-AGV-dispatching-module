@@ -13,12 +13,12 @@ Edit run.py and change the string variable "Task" for differet purpose (see the 
 The excecute "run.py" to run the simulation of ML AGV dispatching.
 
 ## AGV dispatch MDP problem
-![image](picture or gif url)
+![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/DQNfigure.PNG)
 
 ## State Setting
-
+![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/State.PNG)
 ## Reward Function
-
+![image](https://github.com/arrtvv852/ML-for-AGV-dispatching-module/blob/master/Reward.PNG)
 ## Research Abstract
 The path planning problem and the dispatching problem about AGVs system will be discussed in the research. In AGVs path planning problem, a path planning method “A Star with Future Congestion” is proposed by considering the congestion cost of the nodes to be planned. This research also proposed a dead-lock resolution algorithm to deal with the conflict and dead-lock problem in the operation of multi AGVs system.
 In the AGVs dispatching issue, an AGV dynamic dispatching in Flexible Manufacturing System (FMS) by machine learning technique is presented in this paper. The objective is to minimize mean tardiness of orders in FMS. The machine learning-based AGV dispatching approach - support vector machine (SVM) AGV dispatcher is proposed. The idea of the dispatcher is to make dispatching decision base on the system attributes. The simulation runs will be carrying out for generating the training data for SVM. The system attributes that might affect the performance of machine learning dispatcher will also be discussed.
